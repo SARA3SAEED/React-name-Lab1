@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+#container p{
+    background: rgb(231, 157, 157);
+    height: 100px;
+    text-align: center;
+    margin-left: 50px;
+
+}
+
+#container1 p{
+    background: rgb(168, 168, 233);
+    height: 100px;
+    text-align: center;
+    margin-left: 50px;
+
+
+}
+
+#container2 p{
+    background:  rgb(119, 238, 186);
+    height: 100px;
+    text-align: center;
+    margin-left: 50px;
+
+}
+
+
+#container2 img{
+    margin-left: 50px;
+
+}
